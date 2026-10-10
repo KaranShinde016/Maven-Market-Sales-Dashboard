@@ -100,7 +100,7 @@ An interactive **Power BI dashboard** built on a multi-table **star schema** to 
 ---
 
 ## 🖼️ Screen Shots
-![Topline Performance](images/topline_performance.png)
+![Topline Performance](https://github.com/KaranShinde016/Maven-Market-Sales-Dashboard/blob/main/Maven%20Market%20Dashboard%20SS.png)
 ![KPI Measures](images/kpi_measures.png)
 ![Data Model](images/data_model.png)
 
